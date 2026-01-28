@@ -15,12 +15,14 @@ This project is created for practicing SQL using a real-world IT company databas
 - Attendance
 
 ## 🛠️ Topics Covered
-- SELECT, WHERE, ORDER BY
-- LIKE, IN, BETWEEN, IS NULL
-- INNER JOIN
+- SELECT, WHERE, ORDER BY, TOP
+- LIKE, IN, BETWEEN, IS NULL, AND/OR
+- INNER JOIN, LEFT/RIGHT JOIN, SELF JOIN
 - GROUP BY, HAVING
-- Aggregate functions (COUNT, SUM, AVG)
-- Subqueries
+- Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
+- Subqueries (WHERE, SELECT, FROM, EXISTS, ANY, ALL)
+-  WITH (CTE)
+- CASE statements (conditional logic)
 
 ## 🎯 Purpose
 To improve SQL skills by working with realistic data and common business queries.
